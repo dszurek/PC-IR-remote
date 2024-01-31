@@ -1,5 +1,5 @@
 # PC-IR-remote
-Program that takes input from an IR TV remote and translates it into windows media functions using an Arduino and a Python program.
+Program that takes input from an infrared TV remote and translates it into Windows media functions through a connected Arduino and a Python script on the host machine.
 
 
 This was specifically designed for use with an Arduino Uno along with an IR receiver to be used with a Sony BD RMT-VB200U IR remote. 
@@ -8,4 +8,4 @@ on the Windows computer, whether it be changing the volume, playing/pausing medi
 
 Included are two stl files for 3d printing a simple enclosure for an Arduino Uno and IR sensor, also created by me. 
 
-This code was entirely written by me, with slight help from ChatGPT pushing me in the right direction.  
+This code was written in its entirety by me.  
