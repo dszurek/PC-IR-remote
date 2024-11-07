@@ -6,6 +6,5 @@ This was specifically designed for use with an Arduino Uno along with an IR rece
 The Arduino takes input from the IR remote, then translates it into a message on a serial monitor. With the Arduino connected to a Windows PC through a USB cable and the Python program running, the Python code reads the messages coming through the serial monitor, and then activates a corresponding function 
 on the Windows computer, whether it be changing the volume, playing/pausing media, moving the mouse cursor, etc. 
 
-Included are two stl files for 3d printing a simple enclosure for an Arduino Uno and IR sensor, also created by me. 
+Included are two stl files for 3d printing a simple enclosure for an Arduino Uno and IR sensor.
 
-This code was written in its entirety by me.  
